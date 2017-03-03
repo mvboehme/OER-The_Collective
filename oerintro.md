@@ -1,5 +1,7 @@
 # An Introduction to Open Education Resources
 
+## What are they?
+
 Open education resources (OER) are freely available and distributable course materials. While often times the emphasis is placed upon open access textbooks, OER can and does encompass all matter of materials, from syllabi to presentations to course shells/frameworks.
 
 There are many definitions and interpretations of OER, but for the purposes of this class, the focus will be placed upon OER materials that are:
@@ -10,9 +12,13 @@ There are many definitions and interpretations of OER, but for the purposes of t
 
 Most of this information can be gathered from the license accompanying OER materials.
 
+## Why should I care?
+
 Traditionally, faculty members are given a class to teach. The class might have a textbook attached to it, or the faculty member might need to select a text. The text might have material related to the class, from handouts to slides. The faculty member might modify this material for her own class, but she cannot legally share the changed materials. Additionally, students will need to purchase the text, and, depending upon the discipline, access to some kind of electronic complement. All of this is closed and expensive. Faculty can create custom editions of textbooks, but they are stuck with the content within the individual books. Faculty can also create course packets, but the process is labor-intensive.
 
 OER presents an alternative to this. Faculty can choose pre-existing materials, just as they do with traditional textbooks, but they can reconfigure content as they see fit, pulling elements of one text into elements of a different one, even rewriting sections, if the faculty member wishes. When the course is complete, the faculty member can make her material available, so that other faculty, possibly from within the same department but potentially from a different institution, can adopt and adapt the material.
+
+## What can I do with them?
 
 OER is not just textbook material. It can include anything from entire course shells, to syllabi, to assignments, to presentations.
 
